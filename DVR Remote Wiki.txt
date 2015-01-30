@@ -3,7 +3,7 @@ List features, then begin to prioritize and rank in usage and importance.
 
 * Power on/off
 * Volume up/down
-* Chan
+* Change channel
 * Record shows
 * Playback controls: pause, rewind, fast forward, stop
 * Navigate on screen menu
@@ -15,6 +15,7 @@ List features, then begin to prioritize and rank in usage and importance.
 * Unused buttons
 * Blank buttons
 * Ugly - aged
+* It has to be a fuckin gay touch screen app
 
 ## Solutions
 
